@@ -1,0 +1,4 @@
+name=MyfirstInstall
+description=install profile of my first profile
+version=1.x
+core=7.x
