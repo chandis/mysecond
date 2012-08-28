@@ -13,3 +13,6 @@ projects[views][version]='3.5'
 projects[ctools][subdir]='contrib'
 projects[ctools][version]='1.2'
 
+projects[devel][subdir]='contrib'
+projects[devel][version]='1.3'
+
